@@ -1,0 +1,17 @@
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.Form1.resources
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.Properties.Resources.resources
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.csproj.GenerateResource.Cache
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\bin\Debug\smbnesromtexteditor.exe
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\bin\Debug\smbnesromtexteditor.pdb
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.exe
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.pdb
+C:\Users\sleepy\Documents\Visual Studio 2008\Projects\c#\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\bin\Debug\smbnesromtexteditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\bin\Debug\smbnesromtexteditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.Form1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Debug\smbnesromtexteditor.csproj.GenerateResource.Cache
