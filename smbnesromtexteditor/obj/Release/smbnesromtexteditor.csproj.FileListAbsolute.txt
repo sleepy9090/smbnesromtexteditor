@@ -15,3 +15,13 @@ F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnes
 F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.csproj.GenerateResource.Cache
 F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.exe
 F:\Users\sleepy\Documents\visual studio 2013\Projects\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.pdb
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\bin\Release\smbnesromtexteditor.exe
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\bin\Release\smbnesromtexteditor.pdb
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.Form1.resources
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.exe
+C:\Users\Administrator\source\repos\smbnesromtexteditor\smbnesromtexteditor\obj\Release\smbnesromtexteditor.pdb
